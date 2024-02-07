@@ -1,0 +1,3 @@
+C:/Users/laptop/CLionProjects/EjerciciosEDD/cmake-build-debug/CMakeFiles/EjerciciosEDD.dir
+C:/Users/laptop/CLionProjects/EjerciciosEDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laptop/CLionProjects/EjerciciosEDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
